@@ -1,1 +1,0 @@
-# courseraweek3assignment.R
